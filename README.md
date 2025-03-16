@@ -15,3 +15,6 @@ Unknown Face Video Recording: Automatically records a short video clip when an u
 Post-Processing of Unknown Faces: After the webcam feed is closed, the system displays captured images of unknown faces, prompting the user to identify them and potentially add them to the known faces database for future recognition. 
 
 Efficient Real-time Processing: Designed for speed and efficiency to ensure smooth real-time performance.
+
+# Simple Block Diagram 
+![Image](https://github.com/user-attachments/assets/877b475c-cdd3-4858-affb-021fdc939b84)
