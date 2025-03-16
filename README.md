@@ -17,4 +17,4 @@ Post-Processing of Unknown Faces: After the webcam feed is closed, the system di
 Efficient Real-time Processing: Designed for speed and efficiency to ensure smooth real-time performance.
 
 # Simple Block Diagram 
-![Image](https://github.com/user-attachments/assets/877b475c-cdd3-4858-affb-021fdc939b84)
+![Image](https://github.com/user-attachments/assets/cee861b4-246a-4612-90fb-bcc2da6ed352)
